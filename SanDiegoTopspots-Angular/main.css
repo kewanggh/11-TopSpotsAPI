@@ -1,0 +1,95 @@
+body
+{
+    font-family: 'Arvo', serif;
+
+    position: relative;
+
+    background-image: url('image/background.jpg');
+    background-size: 100% 100%;
+}
+
+#outerContainer
+{
+    margin: 0 40px;
+}
+
+thead
+{
+    font-weight: bold;
+}
+
+button
+{
+    vertical-align: middle;
+    margin-left: 60px;
+}
+
+header
+{
+    margin: 0 40px 0 40px;
+    border-radius: 5px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    
+}
+
+
+
+header h1
+{
+    font-weight: bold;
+
+    display: inline-block;
+
+    margin-right: 150px;
+
+    text-shadow: 2px 2px gray;
+}
+
+#intro
+{
+    font-size: 1.5em;
+
+    margin-bottom: 10px;
+}
+
+footer
+{
+    margin: 50px 40px 0 40px;
+
+    text-align: center;
+}
+
+#map
+{
+    height: 100%;
+    /*box-shadow: 10px 10px 5px #888888;*/
+}
+
+#mapouter
+{
+    position: fixed;
+    top: 100px;
+    left: 300px;
+}
+
+img
+{
+    margin-left: 30px;
+}
+
+#mapbutton
+{
+    margin: 10px 0 10px 100px;
+}
+
+}
+.infoWindowContent {
+    font-size:  14px !important;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+/*h2 {
+    margin-bottom:0;
+    margin-top: 0;
+}*/

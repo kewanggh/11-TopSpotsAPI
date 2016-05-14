@@ -1,0 +1,17 @@
+{
+  "name": "06-SanDiegoTopspots-Angular",
+  "main": "index.html",
+  "homepage": "https://github.com/kewanggh/Astro-Weight-Calculator",
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ngmap": "^1.17.3"
+  }
+}
